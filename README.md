@@ -80,3 +80,41 @@ The Waterfall Chart clearly highlights months with inconsistent sales performanc
 The Tree Map provides an intuitive visual comparison of each month’s total contribution, making it ideal for presentations and summaries.
 
 Together, these charts offer a comprehensive picture of sales behavior for strategic planning.
+
+
+# Visualization 3 – Customer Overlap Across Marketing Campaigns
+
+This interactive bar chart highlights how customers engaged across different marketing channels such as Email, Social Media, and Mobile. Each bar represents a unique segment based on single or multiple-channel engagement combinations. This visualization presents an analysis of how a Travitinerary's customers interact with three key marketing channels: Email, Social Media, and Mobile Campaigns, based on a dataset of 5,000 unique customers.
+
+1. Exclusive Channel Engagement
+A substantial number of customers are engaging through only one channel:
+
+Email Only: Customers reachable solely via email represent a traditional but still relevant segment.
+
+Social Only: This group is indicative of a younger or digitally-native audience preferring platforms like Instagram, Facebook, etc.
+
+Mobile Only: These customers are engaging via SMS or app notifications—likely mobile-first users.
+
+High exclusivity in any one channel may indicate missed cross-channel opportunities and potential for broader engagement strategies.
+
+2. Two-Channel Overlaps
+
+These customers are more engaged and are likely moving through a multi-touch journey. These groups are crucial for retargeting and funnel acceleration, as they’re already interacting on more than one front.
+
+The overlaps between:
+
+Email & Social
+Email & Mobile
+Social & Mobile
+
+
+3. Highly Engaged Customers (All Three Channels)
+The segment of users who engage with all three channels—Email, Social, and Mobile—is relatively smaller but extremely valuable. These are the most engaged, multi-channel customers, and likely to be brand loyal or high-value customers. This segment is ideal for premium offerings, early product access, referral incentives, and deeper personalization.
+
+4. Strategic Opportunities
+If the number of "Only Social" or "Only Mobile" users is high, Travitinerary may be under-leveraging traditional touchpoints like email campaigns. Conversely, if "Email Only" dominates, modern channels (mobile push, social media) may need better integration. Identifying the least represented segments indicates where marketing investment or optimization is lacking.
+
+
+
+
+
